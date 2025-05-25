@@ -1,4 +1,5 @@
 University Management System
+
 A Java Swing-based desktop application designed to manage various aspects of a university's administrative system. This project includes modules for handling student information, staff details, courses, attendance, and more.
 
 Features
